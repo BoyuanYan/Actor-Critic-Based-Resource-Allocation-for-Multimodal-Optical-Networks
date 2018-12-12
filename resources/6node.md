@@ -1,0 +1,11 @@
+|index|source|destination|weight|
+|:----|:----|:----|:----|
+|1|Beijing|Xian|300|
+|2|Beijing|Tianjin|100|
+|3|Beijing|Shanghai|500|
+|4|Xian|Chengdu|200|
+|5|Xian|Shanghai|300|
+|6|Xian|Guangzhou|500|
+|7|Chengdu|Guangzhou|400|
+|8|Tianjin|Shanghai|400|
+|9|Shanghai|Guangzhou|500|
